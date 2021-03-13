@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txName" type="id" />
+    <item name="tvshopName" type="id" />
+    <item name="imgGoods" type="id" />
+</resources>
